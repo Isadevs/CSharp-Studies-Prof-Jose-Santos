@@ -1,0 +1,9 @@
+Como subir arquivos para o Github da Máquina?
+
+- Se do repositorio(Github), para a máquina:
+ * Ctr  shift  p
+ * Colar o a url do repositorio
+ * git status
+ * git add .(ou o nome do arquivo)
+ * git commit -m "mensagem de resposta"
+ * git push origin main
